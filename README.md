@@ -98,5 +98,15 @@ Pushing images without local Docker
 Deploying using Azure Container Apps (serverless containers)
 Working with ACR credentials
 Clean production-ready deployment flow
+### simple words its working tested 
+GitHub Code
+    ↓
+ACR (pvdemoacr)
+    ↓ image
+demo-env (Container Apps Environment)
+    ↓ runs inside
+demo-app (Container App)
+    ↓ sends logs
+workspace-demorgI3pf (Log Analytics)
 
-This is ideal for Fiverr portfolio, YouTube tutorials, interview preparation, and personal cloud learning.
+
